@@ -36,7 +36,7 @@ Type | Topic | Grade
 Homework 1 | Basic knowledge of DL | N.A. / 10.0
 Homework 2 | N.A. | N.A. / 10.0
 Project 1 | Semantic Segmentation on Face Parsing | N.A. / 20.0
-Project 2 | N.A. | 20.0 / 20.0
+Project 2 | N.A. | N.A. / 20.0
 Group Project | N.A. | N.A. / 20.0
 Quiz | N.A. | N.A. / 20.0
 
