@@ -1,8 +1,7 @@
 #### [Basic Information]
 
 Face parsing assigns pixel-wise labels for each semantic components, e.g., eyes, nose, mouth. The goal of this mini challenge is to design and train a face parsing network. We will use the data from the CelebAMask-HQ Dataset. For this challenge, we prepared a mini-dataset, which consists of 5000 training and 1000 validation pairs of images, where both images and annotations have a resolution of 512 x 512.
-The performance of the network will be evaluated based on the mIoU between the
-predicted masks and the ground truth of the test set. The website of this project can be seen [here](https://codalab.lisn.upsaclay.fr/competitions/1945?secret_key=a47e8cdb-3ad0-45cc-b182-13fa9ae81616).
+The performance of the network will be evaluated based on the mIoU between the predicted masks and the ground truth of the test set. The website of this project can be seen [here](https://codalab.lisn.upsaclay.fr/competitions/1945?secret_key=a47e8cdb-3ad0-45cc-b182-13fa9ae81616).
 
 This is the project of Advanced Computer Vision of MSAI, NTU.
 We do not provide the tarining set, validation set and test set here. In this task, we use the mini-CelebA dataset. If you want, you can download the whole [CelebAMask-HQ Dataset](https://github.com/switchablenorms/CelebAMask-HQ)

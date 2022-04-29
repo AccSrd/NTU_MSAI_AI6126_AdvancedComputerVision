@@ -35,7 +35,7 @@ Type | Topic | Grade
 ------------ | ------------- | ---
 Homework 1 | Basic knowledge of DL | 10.0 / 10.0
 Homework 2 | Questions about Semantic Segmentation and Transformer | N.A. / 10.0
-Project 1 | Semantic Segmentation on Face Parsing | N.A. / 20.0
+Project 1 | Semantic Segmentation on Face Parsing | 20.0 / 20.0
 Project 2 | Blind Face Super-Resolution | N.A. / 20.0
 Group Reading | About SWIN | N.A. / 20.0
 Quiz | N.A. | N.A. / 20.0
